@@ -1,0 +1,9 @@
+<?php 
+return array (
+		"F:\Downloads\Movies",
+		"C:\Downloads\Movies",
+		"G:\Downloads\Movies",
+		"H:\Downloads\Movies",
+		"D:\Downloads\Movies",
+);
+?>
